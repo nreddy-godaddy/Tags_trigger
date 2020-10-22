@@ -23,4 +23,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: ansible-playbook /home/ansadmin/actions-runner/demo.yml
+        run: ansible-playbook /home/ansadmin/actions-runner/deploy.yml
